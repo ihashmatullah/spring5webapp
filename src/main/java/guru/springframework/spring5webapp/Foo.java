@@ -8,7 +8,7 @@ import org.springframework.boot.SpringApplication;
 public class Foo {
   public static void main(String[] args) {
 
-    System.out.println("This is a test git push");
+    System.out.println("This is a test git push-");
   }
 
 }
